@@ -1,7 +1,7 @@
 import requests
 
 # Your GitHub personal access token
-token = "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"
+token = 
 headers = {"Authorization": f"token {token}"}
 
 # API endpoint to fetch user repositories
